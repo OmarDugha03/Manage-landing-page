@@ -1,0 +1,8 @@
+export {default as NavBar} from "./NavBar"
+export {default as Hero} from "./Hero"
+export {default as Main} from "./MainSec"
+export {default as Features} from "./Features"
+export {default as Review} from "./Review"
+export {default as Card} from "./Card"
+export {default as CTA} from "./CTA"
+export {default as Footer} from "./Footer"
